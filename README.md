@@ -3,7 +3,9 @@
 ### Hello World
 #### Hello World
 *an educational institution or establishment, in particular one providing higher education or specialized professional or vocational training.*
+
 **the devotion of time and attention to gaining knowledge of an academic subject, especially by means of books.**
+
 ***an institution where instruction is given, especially to persons under college age: The children are at school. an institution for instruction in a particular skill or field. a college or university.***
 
 # image
